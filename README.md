@@ -46,20 +46,35 @@ Escrow contract governed by DAO using moralis on the frontend
 
 -NodeJS To create hardhat project and install dependencis using npm
 
-1. Clone/Download the Repository
-2. Install Dependencies: npm install
-3. Deploy to hardhat network (local development blockchain) npx hardhat run src/backend/scripts/deploy.js
-4. Run app
+### 1. Clone/Download the Repository
+
+### 2. Install Dependencies:
+```
+npm install
+```
+
+### 3. Deploy to hardhat network (local development blockchain)
+```
+npx hardhat run src/backend/scripts/deploy.js
+```
+
+### 4. Run app
+```
 npm start
-Flow of Execution
-Join the DAO
-Create a Proposal
-Delegate
-Vote
-Move 5 Blocks - node src/backend/scripts/moveBlock5.js 
-Queue
-Move Time - node src/backend/scripts/moveTime.js 
-Execute
-Finally Claim the accrued interest.
----------------------------------------------------------------------------------------------
-Smart Contract are deployed on mainnet, use some MATIC to interact with the front, or some USDC.
+```
+
+## Flow of Execution
+
+1. Join the DAO
+2. Create a Proposal
+3. Delegate
+4. Vote
+5. Move 5 Blocks - ```node src/backend/scripts/moveBlock5.js ```
+6. Queue
+7. Move Time - ```node src/backend/scripts/moveTime.js ```
+8. Execute
+9. Finally Claim the accrued interest. 
+
+----------------------------------------------------------------------------------------------------------------
+
+#Smart Contract are deployed on mainnet, use some MATIC to interact with the front, or some USDC.
