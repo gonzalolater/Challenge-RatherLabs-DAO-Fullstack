@@ -61,3 +61,5 @@ Queue
 Move Time - node src/backend/scripts/moveTime.js 
 Execute
 Finally Claim the accrued interest.
+---------------------------------------------------------------------------------------------
+Smart Contract are deployed on mainnet, use some MATIC to interact with the front, or some USDC.
