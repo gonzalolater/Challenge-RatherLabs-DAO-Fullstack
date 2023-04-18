@@ -30,8 +30,9 @@ Evaluation
 - Care for security & production practices: Treat this code as if it were going to be deployed in mainnet
 
 ---------------------------------------------------------------------------------------------------------------------
-PDF
+[DAO - Fullstack + Web3.pdf](https://github.com/gonzalolater/DAO-FullStack/files/11261829/DAO.-.Fullstack.%2B.Web3.pdf)
 ---------------------------------------------------------------------------------------------------------------------
+
 - Moralis Escrow Dao
 Escrow contract governed by DAO using moralis on the frontend
 
