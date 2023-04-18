@@ -69,7 +69,7 @@ const Join = ({isConnected}) => {
         <div className='col-lg-4 col-md-6 col-sm-8 mx-auto mt-5'>
         <div className="form-floating  input-group mb-3">
           <input className='form-control' type="number" id="usdcAmount" value={amount} onChange={(e)=> setAmount(e.target.value)}/>
-          <label for="usdcAmount">USDC Amount</label>
+          <label htmlFor="usdcAmount">USDC Amount</label>
           <button className='btn btn-outline-primary' onClick={() => {if(isConnected){sendUSDCAndMint()} }}>Join DAO</button>
           </div>
         </div>

@@ -40,7 +40,7 @@ const ClaimRewards = ({isConnected}) => {
     <div className='col-lg-4 col-md-6 col-sm-8 mx-auto mt-5'>
         <div className="form-floating input-group mb-3">
           <input className='form-control' type="number" id='stage' value={stage} onChange={(e)=> setStage(e.target.value)}/>
-          <label for="stage">Stage</label>
+          <label htmlFor="stage">Stage</label>
           <button className='btn btn-outline-primary' onClick={() => {if(isConnected){claim()} }}>Claim Your Reward</button>
           </div>
         </div>

@@ -88,7 +88,7 @@ const CreateProposal = () => {
         <div className='col-lg-6 col-md-6 col-sm-8 mx-auto mt-5'>
         <div className="input-group form-floating mb-3">
           <input className='form-control' type="text" id='desc' value={desc} onChange={(e)=> setDesc(e.target.value)}/>
-          <label for="desc">Proposal Description</label>
+          <label htmlFor="desc">Proposal Description</label>
           <button className='btn btn-outline-primary' onClick={() => createProposal() }>Submit Proposal</button>
         </div>
         </div>
