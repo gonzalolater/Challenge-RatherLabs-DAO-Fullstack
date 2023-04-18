@@ -1,5 +1,6 @@
-# DAO-FullStack - Challenge RatherLabs - Senior BlockChain Backend Engineer
-The DAO
+# DAO-FullStack - Challenge RatherLabs - 
+# Senior BlockChain Backend Engineer
+# The DAO
 
 A DAO is a type of organization that is governed by smart contracts, which are self-executing computer programs that automatically enforce the rules of the organization. 
 Members of the DAO can vote on proposals and decisions using their DAO tokens, and the smart contracts automatically execute the decisions based on the results of the vote. Essentially, a DAO is a decentralized organization that operates on a blockchain using smart contracts to facilitate decision-making and enforce rules.
@@ -77,4 +78,4 @@ npm start
 
 ----------------------------------------------------------------------------------------------------------------
 
-#Smart Contract are deployed on mainnet, use some MATIC to interact with the front, or some USDC.
+# Smart Contract are deployed on mainnet, use some MATIC to interact with the front, or some USDC.
