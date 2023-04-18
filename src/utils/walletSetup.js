@@ -26,3 +26,5 @@ export const wagmiClient = createClient({
 });
 
 export { WagmiConfig, RainbowKitProvider };
+
+
