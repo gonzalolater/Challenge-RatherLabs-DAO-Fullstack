@@ -1,4 +1,4 @@
-# DAO-FullStack - Challenge RatherLabs - 
+# DAO-FullStack - Challenge RatherLabs 
 # Senior BlockChain Backend Engineer
 # The DAO
 
