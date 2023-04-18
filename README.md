@@ -37,9 +37,13 @@ Evaluation
 Escrow contract governed by DAO using moralis on the frontend
 
 -Technology Stack & Dependencies
+
 -Solidity (Writing Smart Contract)
+
 -Javascript (Game interaction)
+
 -Infura As a node provider https://infura.io/
+
 -NodeJS To create hardhat project and install dependencis using npm
 
 1. Clone/Download the Repository
